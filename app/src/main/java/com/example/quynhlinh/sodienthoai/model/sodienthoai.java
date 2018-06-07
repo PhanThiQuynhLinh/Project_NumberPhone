@@ -8,6 +8,7 @@ public class sodienthoai {
     private String ten;
     private String sdt;
     private int number;
+    private String linh;
     public sodienthoai(String ten, String sdt) {
         this.ten = ten;
         this.sdt = sdt;

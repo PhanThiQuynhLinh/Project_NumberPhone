@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trần Văn A"
+        android:textSize="30dp"
+        android:textColor="#453838"
+        android:id="@+id/txtten"
+        />
+    <TextView
+        android:layout_below="@+id/txtten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtsdt"
+        android:text="0961688293"
+        android:textSize="20dp"
+        android:textColor="#f00"
+        />
+
+
+</RelativeLayout>

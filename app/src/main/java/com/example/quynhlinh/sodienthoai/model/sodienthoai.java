@@ -7,7 +7,7 @@ package com.example.quynhlinh.sodienthoai.model;
 public class sodienthoai {
     private String ten;
     private String sdt;
-    
+
     public sodienthoai(String ten, String sdt) {
         this.ten = ten;
         this.sdt = sdt;
